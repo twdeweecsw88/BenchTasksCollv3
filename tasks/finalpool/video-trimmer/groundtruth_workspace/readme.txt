@@ -1,0 +1,1 @@
+# Ground Truth Workspace for video-trimmer
