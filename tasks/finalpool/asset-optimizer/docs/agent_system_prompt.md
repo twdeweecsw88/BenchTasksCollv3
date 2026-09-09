@@ -1,0 +1,1 @@
+# Agent System Prompt for asset-optimizer
