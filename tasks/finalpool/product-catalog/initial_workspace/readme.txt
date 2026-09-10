@@ -1,0 +1,1 @@
+# Initial Workspace for product-catalog
